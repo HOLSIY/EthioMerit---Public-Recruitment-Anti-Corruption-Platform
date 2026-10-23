@@ -1,0 +1,6 @@
+{
+  "name": "EthioMerit - Public Recruitment & Anti-Corruption Platform",
+  "description": "AI-powered, high-security, corruption-resistant public recruitment platform for Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
